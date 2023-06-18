@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Rifle",
+    "Ingredients": [
+        {
+            "Item": "Desc_Motor",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Rubber",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_SteelPipe",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "BP_EquipmentDescriptorRifle",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperEquipments",    
+    "ManufacturingMenuPriority": 13,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_Trees_Sulfur_1_5"
+    ]
+}

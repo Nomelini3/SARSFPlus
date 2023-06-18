@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Desulfurization",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidHydrocarbons",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidRefinedHydrocarbons",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_LiquidFuel",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_PolymerResin",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Sulfur",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 10,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_5"
+    ]
+}

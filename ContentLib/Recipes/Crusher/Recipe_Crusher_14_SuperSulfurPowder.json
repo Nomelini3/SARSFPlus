@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super SulfurPowder",
+    "Ingredients": [
+        {
+            "Item": "Desc_Sulfur",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SulfurPowder",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 14,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "UnlockedBy": [
+        "Schematic_Trees_Sulfur_3_2"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Alumina Solution",
+    "Ingredients": [
+        {
+            "Item": "Desc_Limedust",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_CrushedBauxite",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_CausticSoda",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_AluminaSolution",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 1,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_Blender"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_7"
+    ]
+}

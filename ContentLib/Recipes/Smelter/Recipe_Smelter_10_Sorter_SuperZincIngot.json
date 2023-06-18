@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Zinc Ingot",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedZinc",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_ZincIngot",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 10,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SmelterMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_2"
+    ]
+}

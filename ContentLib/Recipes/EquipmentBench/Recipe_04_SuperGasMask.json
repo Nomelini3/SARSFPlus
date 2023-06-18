@@ -1,0 +1,34 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Gas Mask",
+    "Ingredients": [
+        {
+            "Item": "Desc_Rubber",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Fabric",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "BP_EquipmentDescriptorGasmask",
+            "Amount": 1
+        }
+    ],
+    "OverrideCategory": "SuperEquipments",    
+    "ManufacturingMenuPriority": 4,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_Trees_Evo_Mush_4_1"
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Computer",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronScrew",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_CircuitBoard",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_ModularFrame",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Cable",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Computer",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 6,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ManufacturerMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_5"
+    ]
+}

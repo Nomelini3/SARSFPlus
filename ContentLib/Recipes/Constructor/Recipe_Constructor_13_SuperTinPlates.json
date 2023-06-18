@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Tin PLates",
+    "Ingredients": [
+        {
+            "Item": "Desc_TinIngot",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_TinPlates",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 13,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ConstructorMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_0"
+    ]
+}

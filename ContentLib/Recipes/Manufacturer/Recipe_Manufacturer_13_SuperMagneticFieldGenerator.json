@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Magnetic Field Generator",
+    "Ingredients": [
+        {
+            "Item": "Desc_SpaceElevatorPart_5",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_CobaltPlates",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_CrystalShard",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpaceElevatorPart_6",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 13,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ManufacturerMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_7"
+    ]
+}

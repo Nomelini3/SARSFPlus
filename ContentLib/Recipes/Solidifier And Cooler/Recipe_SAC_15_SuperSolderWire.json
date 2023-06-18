@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Solder Wire",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidSolder",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SolderWire",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_SolderRod",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Gas_Steam",
+            "Amount": 10000
+        }
+        
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 15,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_5"
+    ]
+}

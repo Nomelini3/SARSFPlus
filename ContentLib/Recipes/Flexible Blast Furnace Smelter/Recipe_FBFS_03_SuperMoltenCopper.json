@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Molten Copper",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedCopper",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidCopper",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 3,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_3"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Salt",
+    "Ingredients": [
+        {
+            "Item": "Res_Cryolit",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Salt",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 8,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_Crusher",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_Trees_Cryolit_4_2"
+    ]
+}

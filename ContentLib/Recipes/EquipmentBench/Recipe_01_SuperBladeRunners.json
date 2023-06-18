@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Blade Runners",
+    "Ingredients": [
+        {
+            "Item": "Desc_LeadSheet",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_IronPlateReinforced",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Rotor",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "BP_EquipmentDescriptorJumpingStilts",
+            "Amount": 1
+        }
+    ],
+    "OverrideCategory": "SuperEquipments",    
+    "ManufacturingMenuPriority": 1,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_Trees_Satmonium_2_2"
+    ]
+}

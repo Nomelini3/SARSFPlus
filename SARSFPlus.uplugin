@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Super (Alternate) Recipes SF+",
+	"Description": "Add more efficient alternative recipes for almost every item produced in the Satisfactory Plus mod.",
+	"Category": "Modding",
+	"CreatedBy": "Nomelini",
+	"CreatedByURL": "https://github.com/Nomelini3",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discordapp.com/users/667906363346649098",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.4.1",
+			"Enabled": true
+		},
+		{
+			"Name": "ContentLib",
+			"SemVersion": "^1.0.2",
+			"Enabled": true
+		},
+		{
+			"Name": "SatisfactoryPlus",
+			"SemVersion": "^0.9.7",
+			"Enabled": true
+		}
+	]
+}

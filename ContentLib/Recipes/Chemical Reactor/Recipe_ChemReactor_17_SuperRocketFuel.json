@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Rocket Fuel",
+    "Ingredients": [
+        {
+            "Item": "Desc_NitricAcid",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_PackagedGasOxygen",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Fluid_RocketFuel",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_GasTank",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 17,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_8"
+    ]
+}

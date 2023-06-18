@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Crushed Satmonium",
+    "Ingredients": [
+        {
+            "Item": "Desc_SlugSlime_Mineral",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedSatmonium",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_SlugSlime_Low",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 4,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ManufacturerMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_8"
+    ]
+}

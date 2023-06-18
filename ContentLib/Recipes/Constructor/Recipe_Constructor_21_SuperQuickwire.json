@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Quickwire",
+    "Ingredients": [
+        {
+            "Item": "Desc_CateriumRod",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_HighSpeedWire",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 21,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ConstructorMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_Trees_Satmonium_3_2"
+    ]
+}

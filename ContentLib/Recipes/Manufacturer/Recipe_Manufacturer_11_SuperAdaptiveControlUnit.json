@@ -1,0 +1,39 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Adaptive Control Unit",
+    "Ingredients": [
+        {
+            "Item": "Desc_Computer",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_CobaltPlates",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Plastic",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_SpaceElevatorPart_3",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpaceElevatorPart_4",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 11,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ManufacturerMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_6"
+    ]
+}

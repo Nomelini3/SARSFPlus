@@ -1,0 +1,42 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super T2: Sorted Rubyte",
+    "Ingredients": [
+        {
+            "Item": "Desc_CrushedRubyte",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_LiquidHydrochloricAcid",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Sand",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedTin",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_CrushedLead",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_CrushedNicke",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 8,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SorterMk1"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_6"
+    ]
+}
