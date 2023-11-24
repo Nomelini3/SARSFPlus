@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Natural Fabric",
+    "Ingredients": [
+        {
+            "Item": "Desc_FF_Crop_Cotton",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Fabric",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 2,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_Weavingmachine"
+    ],
+    "UnlockedBy": [
+        "Schematic_Trees_Evo_Mush_3_0"
+    ]
+}

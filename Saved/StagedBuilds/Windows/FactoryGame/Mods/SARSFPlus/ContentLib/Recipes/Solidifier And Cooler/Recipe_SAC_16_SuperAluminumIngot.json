@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Aluminum Ingot",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidAluminum",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_AluminumIngot",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Gas_Steam",
+            "Amount": 10000
+        }
+        
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 16,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_7"
+    ]
+}

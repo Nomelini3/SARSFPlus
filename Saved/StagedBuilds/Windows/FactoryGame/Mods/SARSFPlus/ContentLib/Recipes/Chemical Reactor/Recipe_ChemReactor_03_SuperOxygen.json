@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Oxygen",
+    "Ingredients": [
+        {
+            "Item": "Desc_Air",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Fabric",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Res_GasOxygen",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_Methane",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_Coal",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 3,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_6"
+    ]
+}

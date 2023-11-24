@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Molten Brass",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidCopper",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_LiquidZinc",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_CrushedIron",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidBrass",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 14,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_3"
+    ]
+}

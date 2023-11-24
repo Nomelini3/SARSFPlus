@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Solid Biofuel",
+    "Ingredients": [
+        {
+            "Item": "Desc_GenericBiomass",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Biofuel",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 35,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ConstructorMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_1"
+    ]
+}

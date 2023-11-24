@@ -1,0 +1,5 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_VisualKit.json",
+    "BigIcon": "ARSFPlus_512",
+    "SmallIcon": "ARSFPlus_512"
+}

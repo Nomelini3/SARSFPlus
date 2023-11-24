@@ -1,0 +1,27 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Sloppy Glass",
+    "Ingredients": [
+        {
+            "Item": "Desc_Sand",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Glass",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 11,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SmelterMk1",
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_1"
+    ]
+}

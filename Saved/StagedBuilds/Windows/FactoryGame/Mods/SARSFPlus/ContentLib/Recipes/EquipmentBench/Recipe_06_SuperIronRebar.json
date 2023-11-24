@@ -1,0 +1,26 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Iron Rebar",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SpikedRebar",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperEquipments",    
+    "ManufacturingMenuPriority": 6,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_Trees_Enemy_3_3"
+    ]
+}

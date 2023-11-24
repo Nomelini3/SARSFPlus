@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Caustic Soda",
+    "Ingredients": [
+        {
+            "Item": "Res_Cryolit",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CausticSoda",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 12,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_7"
+    ]
+}

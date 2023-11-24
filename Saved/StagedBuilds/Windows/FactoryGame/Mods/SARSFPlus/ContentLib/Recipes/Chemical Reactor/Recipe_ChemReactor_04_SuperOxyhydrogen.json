@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Oxyhydrogen",
+    "Ingredients": [
+        {
+            "Item": "Res_GasOxygen",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Gas_Hydrogen",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Gas_Oxyhydrogen",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 4,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_ChemReactor"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_6"
+    ]
+}

@@ -1,0 +1,153 @@
+{
+	"Files": [
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Categories/Cat_SuperEquipments.uasset",
+			"ChunkId": "52ce9a0806675b1200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Categories/Cat_SuperFluids.uasset",
+			"ChunkId": "e733e466cdf9d21400000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Categories/Cat_SuperItems.uasset",
+			"ChunkId": "c2a02c002007ef9a00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Icons/ARSFPlus_512.uasset",
+			"ChunkId": "66441db3f688567900000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Icons/ARSFPlus_512.ubulk",
+			"ChunkId": "66441db3f688567900000002"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/RootGameWorld_SARSFPlus.uasset",
+			"ChunkId": "a92db4cdb26be65b00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_0.uasset",
+			"ChunkId": "4bf8c7e47902c55800000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_1.uasset",
+			"ChunkId": "b56914d5966fabea00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_2.uasset",
+			"ChunkId": "3c727a964c8e3fd300000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_3.uasset",
+			"ChunkId": "f9af295656e291ac00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_4.uasset",
+			"ChunkId": "101af2de68181da200000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_5.uasset",
+			"ChunkId": "7a24e69ef769043100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_6.uasset",
+			"ChunkId": "93345e80aa680e1e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_7.uasset",
+			"ChunkId": "acf2d78d075aa19100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/SARSFPlus/Content/Schematics/Milestones/Schematic_SuperItems_8.uasset",
+			"ChunkId": "5460fdd1f81ecc4700000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/SARSFPlus/Categories/Cat_SuperEquipments",
+			"ExportBundleChunkIds": [
+				"52ce9a0806675b1200000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Categories/Cat_SuperFluids",
+			"ExportBundleChunkIds": [
+				"e733e466cdf9d21400000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Categories/Cat_SuperItems",
+			"ExportBundleChunkIds": [
+				"c2a02c002007ef9a00000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Icons/ARSFPlus_512",
+			"ExportBundleChunkIds": [
+				"66441db3f688567900000001"
+			],
+			"BulkDataChunkIds": [
+				"66441db3f688567900000002"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/RootGameWorld_SARSFPlus",
+			"ExportBundleChunkIds": [
+				"a92db4cdb26be65b00000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_0",
+			"ExportBundleChunkIds": [
+				"4bf8c7e47902c55800000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_1",
+			"ExportBundleChunkIds": [
+				"b56914d5966fabea00000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_2",
+			"ExportBundleChunkIds": [
+				"3c727a964c8e3fd300000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_3",
+			"ExportBundleChunkIds": [
+				"f9af295656e291ac00000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_4",
+			"ExportBundleChunkIds": [
+				"101af2de68181da200000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_5",
+			"ExportBundleChunkIds": [
+				"7a24e69ef769043100000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_6",
+			"ExportBundleChunkIds": [
+				"93345e80aa680e1e00000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_7",
+			"ExportBundleChunkIds": [
+				"acf2d78d075aa19100000001"
+			]
+		},
+		{
+			"Name": "/SARSFPlus/Schematics/Milestones/Schematic_SuperItems_8",
+			"ExportBundleChunkIds": [
+				"5460fdd1f81ecc4700000001"
+			]
+		}
+	]
+}

@@ -1,0 +1,294 @@
+FactoryGame/Mods/SARSFPlus/SARSFPlus.uplugin	2023-11-24T02:38:51.833Z
+FactoryGame/Mods/SARSFPlus/Resources/Icon128.png	2023-11-19T23:37:49.073Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Icons/ARSFPlus_512.png	2023-11-19T23:37:48.948Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_01_SuperRIronPlates.json	2023-11-19T23:37:48.949Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_02_SuperModularFrame.json	2023-11-19T23:37:48.949Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_03_SuperLeadFrame.json	2023-11-19T23:37:48.950Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_04_SuperBronzeFrame.json	2023-11-19T23:37:48.951Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_05_SuperBrassPipe.json	2023-11-24T01:59:54.122Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_05_SuperBrassPipes.json	2023-11-20T02:38:13.657Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_06_SuperLimeDustConcrete.json	2023-11-19T23:37:48.952Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_07_SuperSlagCement.json	2023-11-19T23:37:48.952Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_08_SuperSimpleConveyorBelt.json	2023-11-19T23:37:48.952Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_09_SuperConveyorBelt.json	2023-11-19T23:37:48.953Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_10_SuperSimplePhotovoltaicCell.json	2023-11-19T23:37:48.953Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_11_SuperCompactBiomass.json	2023-11-24T01:59:54.122Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_12_SuperRotor.json	2023-11-19T23:37:48.954Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_13_SuperStator.json	2023-11-19T23:37:48.955Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_14_SuperMotor.json	2023-11-19T23:37:48.955Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_15_SuperBlackPowder.json	2023-11-19T23:37:48.955Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_16_SuperColorCartridge.json	2023-11-19T23:37:48.956Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_17_SuperRotorBlades.json	2023-11-19T23:37:48.956Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_18_SuperAiLimiter.json	2023-11-20T02:38:24.313Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_19_SuperEncasedIndustrialBeam.json	2023-11-19T23:37:48.957Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_20_SuperAlcladAluminumSheet.json	2023-11-19T23:37:48.958Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_21_SuperAluminumCase.json	2023-11-24T01:59:54.122Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_21_SuperAluminumCasing.json	2023-11-20T02:38:38.350Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_22_SuperSmartPlating.json	2023-11-19T23:37:48.958Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_23_SuperAutomatedWire.json	2023-11-24T01:59:54.122Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_23_SuperAutomatedWiring.json	2023-11-20T02:39:12.210Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_24_SuperVersatileFramework.json	2023-11-19T23:37:48.960Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_25_SuperHeatSink.json	2023-11-19T23:37:48.960Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_25_SuperInvarPipes.json	2023-11-20T02:45:21.706Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_26_SuperEmptyBarrel.json	2023-11-19T23:37:48.960Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_27_SuperEmptyCanister.json	2023-11-19T23:37:48.961Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_28_SuperEmptyCartridge.json	2023-11-19T23:37:48.961Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_29_SuperEmptyCryoTank.json	2023-11-19T23:37:48.962Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_30_SuperEmptyFluidTank.json	2023-11-19T23:37:48.962Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_31_SuperEmptyHeatTank.json	2023-11-19T23:37:48.963Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_32_SuperShatterRebar.json	2023-11-19T23:37:48.963Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_33_SuperStunRebar.json	2023-11-20T02:41:46.897Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_34_SuperExplosiveRebar.json	2023-11-19T23:37:48.964Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_35_SuperStabilizationFrame.json	2023-11-19T23:37:48.964Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Assembler/Recipe_Assembler_36_SuperStabilizedQuantumCrystal.json	2023-11-19T23:37:48.965Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Blender/Recipe_Blender_01_SuperAluminaSolution.json	2023-11-19T23:37:48.966Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Blender/Recipe_Blender_02_SuperExpertConveyorBelt.json	2023-11-19T23:37:48.966Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Blender/Recipe_Blender_03_SuperFusedModularFrame.json	2023-11-19T23:37:48.966Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_01_SuperPaint.json	2023-11-19T23:37:48.967Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_02_SuperLiquidBiofuel.json	2023-11-19T23:37:48.967Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_03_SuperOxygen.json	2023-11-19T23:37:48.968Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_04_SuperOxyhydrogen.json	2023-11-19T23:37:48.969Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_05_SuperHydrochloricAcid.json	2023-11-19T23:37:48.969Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_06_SuperSulfuricAcid.json	2023-11-19T23:37:48.970Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_07_SuperNaturalGasSplitting.json	2023-11-19T23:37:48.970Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_08_SuperMethane.json	2023-11-19T23:37:48.970Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_09_SuperOilDestilation.json	2023-11-19T23:37:48.971Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_10_SuperOilDesulfurization.json	2023-11-19T23:37:48.971Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_11_SuperOilGasDestilation.json	2023-11-19T23:37:48.972Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_12_SuperCausticSoda.json	2023-11-19T23:37:48.972Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_13_SuperTitaniumSolution.json	2023-11-19T23:37:48.972Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_14_SuperTitantetrachlorid.json	2023-11-19T23:37:48.973Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_15_SuperNitricAcid.json	2023-11-19T23:37:48.973Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_16_SuperDieselFuel.json	2023-11-19T23:37:48.974Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_17_SuperRocketFuel.json	2023-11-19T23:37:48.974Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_18_SuperPetroleumCoke.json	2023-11-19T23:37:48.975Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_19_SuperBattery.json	2023-11-19T23:37:48.975Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Chemical Reactor/Recipe_ChemReactor_20_ThermalPropulsionRocket.json	2023-11-19T23:37:48.975Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Colider/Recipe_Colider_01_SuperCrushedStiratite.json	2023-11-20T02:56:36.451Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Colider/Recipe_Colider_02_SuperCrushedRubyte.json	2023-11-20T02:56:42.476Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Colider/Recipe_Colider_03_SuperCrushedSaphirite.json	2023-11-20T02:56:47.001Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Colider/Recipe_Colider_04_SuperCrushedSatmonium.json	2023-11-20T02:56:50.404Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Colider/Recipe_Colider_05_SuperCrotinniumOre.json	2023-11-20T02:56:54.129Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Colider/Recipe_Colider_06_SuperNuclearPasta.json	2023-11-20T02:57:00.077Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_01_SuperIronPlate.json	2023-11-19T23:37:48.979Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_02_SuperIronRod.json	2023-11-19T23:37:48.979Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_03_SuperIronScrew.json	2023-11-24T01:59:54.153Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_03_SuperScrew.json	2023-11-20T02:46:00.194Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_04_SuperIronSheet.json	2023-11-19T23:37:48.980Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_05_SuperIronWire.json	2023-11-19T23:37:48.981Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_06_SuperCopperBusbars.json	2023-11-20T02:46:24.241Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_06_SuperCopperPlates.json	2023-11-24T01:59:54.153Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_07_SuperCopperRod.json	2023-11-19T23:37:48.982Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_08_SuperCopperPipes.json	2023-11-19T23:37:48.982Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_09_SuperCopperSheet.json	2023-11-19T23:37:48.983Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_10_SuperCopperCable.json	2023-11-19T23:37:48.983Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_11_SuperCopperWire.json	2023-11-19T23:37:48.984Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_12_SuperCement.json	2023-11-24T01:59:54.153Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_12_SuperConcrete.json	2023-11-20T02:46:49.872Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_13_SuperTinPlates.json	2023-11-20T02:47:02.257Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_14_SuperTinRod.json	2023-11-19T23:37:48.985Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_15_SuperTinSheet.json	2023-11-19T23:37:48.986Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_16_SuperTinWire.json	2023-11-19T23:37:48.986Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_17_SuperZincPlates.json	2023-11-19T23:37:48.986Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_18_SuperCateriumPlates.json	2023-11-20T02:47:19.725Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_19_SuperCateriumRod.json	2023-11-19T23:37:48.987Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_20_SuperCateriumSheet.json	2023-11-19T23:37:48.988Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_21_SuperQuickwire.json	2023-11-19T23:37:48.988Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_22_SuperBronzeBeam.json	2023-11-19T23:37:48.989Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_23_SuperBronzePipe.json	2023-11-24T01:59:54.153Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_23_SuperBronzePipes.json	2023-11-20T02:48:11.428Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_24_SuperBronzePlates.json	2023-11-19T23:37:48.990Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_25_SuperBrassPlates.json	2023-11-19T23:37:48.990Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_26_SuperLeadPlates.json	2023-11-20T02:48:24.614Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_27_SuperLeadSheet.json	2023-11-19T23:37:48.991Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_28_SuperSteelBeam.json	2023-11-19T23:37:48.992Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_29_SuperSteelPipe.json	2023-11-19T23:37:48.992Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_30_SuperSteelScrew.json	2023-11-19T23:37:48.992Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_31_SuperInvarPlates.json	2023-11-20T02:48:37.196Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_32_SuperCobaltPlates.json	2023-11-19T23:37:48.993Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_33_SuperBiomass_Leaves.json	2023-11-19T23:37:48.994Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_34_SuperBiomass_Wood.json	2023-11-19T23:37:48.994Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_34_SuperSolidBiomassFuel.json	2023-11-20T02:50:37.168Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_35_SuperSolidBiofuel.json	2023-11-19T23:37:48.995Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_36_SuperHatcherProtein.json	2023-11-20T02:51:31.178Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_36_SuperProteinCrab.json	2023-11-24T01:59:54.169Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_37_SuperHogProtein.json	2023-11-20T02:51:29.665Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_37_SuperProteinHog.json	2023-11-24T01:59:54.170Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_38_SuperProteinSpitter.json	2023-11-24T01:59:54.170Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_38_SuperSpitterProtein.json	2023-11-20T02:52:15.227Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_39_SuperProteinStinger.json	2023-11-24T01:59:54.170Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_39_SuperStingerProtein.json	2023-11-20T02:51:55.435Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Constructor/Recipe_Constructor_40_SuperAlienDNACapsule.json	2023-11-19T23:37:48.997Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_01_SuperCrushedStritarit.json	2023-11-19T23:37:48.998Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_02_SuperCrushedRubyte.json	2023-11-19T23:37:48.998Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_03_SuperCrushedSapherit.json	2023-11-19T23:37:48.999Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_04_SuperCrushedSatmonium.json	2023-11-19T23:37:49.000Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_05_SuperCrushedCrotinnium.json	2023-11-19T23:37:49.000Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_06_SuperCrushedSlag.json	2023-11-19T23:37:49.001Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_07_SuperSand.json	2023-11-19T23:37:49.001Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_08_SuperSalt.json	2023-11-19T23:37:49.002Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_09_SuperSilica.json	2023-11-19T23:37:49.002Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_10_SuperMixtureZincTin.json	2023-11-19T23:37:49.002Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_11_SuperMagnesiumGranulat.json	2023-11-24T01:59:54.170Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_11_SuperMagnesiumGranules.json	2023-11-20T02:30:25.541Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_12_SuperCryoliteLimedust.json	2023-11-20T02:31:37.341Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_12_SuperLimedustCryolite.json	2023-11-24T01:59:54.170Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_13_SuperCarbonDust.json	2023-11-19T23:37:49.004Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Crusher/Recipe_Crusher_14_SuperSulfurPowder.json	2023-11-20T02:31:52.254Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_01_SuperBladeRunners.json	2023-11-19T23:37:49.005Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_02_SuperChainSaw.json	2023-11-19T23:37:49.005Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_03_SuperGasFilter.json	2023-11-19T23:37:49.006Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_04_SuperGasMask.json	2023-11-19T23:37:49.006Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_05SuperRebarGun.json	2023-11-19T23:37:49.007Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_06_SuperIronRebar.json	2023-11-19T23:37:49.007Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_08_SuperNobeliskDetonator.json	2023-11-19T23:37:49.008Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_09_SuperGasNobelisk.json	2023-11-20T03:17:40.062Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_10_SuperClusterNobelisk.json	2023-11-19T23:37:49.009Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_11_SuperNobelisk.json	2023-11-19T23:37:49.009Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_12_SuperPortableMiner.json	2023-11-19T23:37:49.009Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_13_SuperRifle.json	2023-11-19T23:37:49.010Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_14_SuperRifleAmmo.json	2023-11-20T03:18:26.630Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_15_SuperRifleSmartridge.json	2023-11-20T03:19:10.410Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_16_SuperTurboRifleAmmo.json	2023-11-20T03:19:02.239Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_17_SuperSmokelessPowder.json	2023-11-19T23:37:49.012Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_18_SuperXenoZapper.json	2023-11-19T23:37:49.012Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_19_SuperXenoBasher.json	2023-11-19T23:37:49.012Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_20_SuperJetpack.json	2023-11-19T23:37:49.013Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_21_SuperZipLine.json	2023-11-19T23:37:49.013Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_22_SuperObjectScanner.json	2023-11-19T23:37:49.014Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_23_SuperParachute.json	2023-11-19T23:37:49.014Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_24_SuperMedicalInhaler.json	2023-11-20T03:19:26.762Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_25_SuperMedicinalInhalerAlienOrgans.json	2023-11-19T23:37:49.015Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_26_SuperTherapeuticInhaler.json	2023-11-19T23:37:49.015Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/EquipmentBench/Recipe_27_SuperVitaminInhaler.json	2023-11-19T23:37:49.016Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_01_SuperMoltenIron.json	2023-11-19T23:37:49.016Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_02_SuperMoltenIronPurified.json	2023-11-19T23:37:49.017Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_03_SuperMoltenCopper.json	2023-11-19T23:37:49.017Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_04_SuperMoltenCopperPurified.json	2023-11-19T23:37:49.019Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_05_SuperMoltenTin.json	2023-11-19T23:37:49.019Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_06_SuperMoltenTinPurified.json	2023-11-19T23:37:49.020Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_07_SuperMoltenZinc.json	2023-11-19T23:37:49.020Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_08_SuperMoltenZincPurified.json	2023-11-19T23:37:49.020Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_09_SuperMoltenCaterium.json	2023-11-19T23:37:49.021Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_10_SuperMoltenCateriumPurified.json	2023-11-19T23:37:49.021Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_11_SuperMoltenLead.json	2023-11-19T23:37:49.022Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_12_SuperMoltenLeadPurified.json	2023-11-19T23:37:49.022Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_13_SuperMoltenBronze.json	2023-11-19T23:37:49.023Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_14_SuperMoltenBrass.json	2023-11-19T23:37:49.023Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_15_SuperMoltenMagnesium.json	2023-11-19T23:37:49.023Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_16_SuperMoltenMagnesiumPurified.json	2023-11-19T23:37:49.024Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_17_SuperMoltenInvar.json	2023-11-19T23:37:49.024Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_18_SuperMoltenCobalt.json	2023-11-19T23:37:49.025Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_19_SuperMoltenNickel.json	2023-11-19T23:37:49.025Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_20_SuperMoltenSteel.json	2023-11-19T23:37:49.026Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_21_SuperMoltenSolder.json	2023-11-19T23:37:49.026Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_22_SuperMoltenAluminum.json	2023-11-19T23:37:49.026Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_23_SuperCrudeOilPurification.json	2023-11-19T23:37:49.027Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Flexible Blast Furnace Smelter/Recipe_FBFS_24_SuperSulfurousGas.json	2023-11-19T23:37:49.027Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_01_SuperSaltedCopper.json	2023-11-20T02:37:03.567Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_01_SuperSaltedCopperIngot.json	2023-11-24T01:59:54.201Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_02_SuperSaltedTin.json	2023-11-20T02:37:12.278Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_02_SuperSaltedTinIngot.json	2023-11-24T01:59:54.201Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_03_SuperBronzeIngot.json	2023-11-19T23:37:49.029Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_04_SuperWhiteBronze.json	2023-11-24T01:59:54.201Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_04_SuperWhiteBronzeIngots.json	2023-11-20T02:37:34.808Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_05_SuperSulfur-FreeIron.json	2023-11-20T02:37:54.185Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Foundry/Recipe_Foundry_05_SuperSulfur-FreeIronIngot.json	2023-11-24T01:59:54.201Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_01_SuperHeavyModularFrame.json	2023-11-19T23:37:49.030Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_02_SuperTitaniumModularFrame.json	2023-11-19T23:37:49.031Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_03_SuperPressureConversionCube.json	2023-11-19T23:37:49.031Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_04_SuperCircuitBoard.json	2023-11-19T23:37:49.032Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_05_SuperHighSpeedConnector.json	2023-11-19T23:37:49.032Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_06_SuperComputer.json	2023-11-19T23:37:49.033Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_07_SuperSupercomputer.json	2023-11-19T23:37:49.033Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_08_SuperCrystalOscillator.json	2023-11-19T23:37:49.034Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_09_SuperAdvancedConveyorBelt.json	2023-11-19T23:37:49.034Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_10_SuperModularEngine.json	2023-11-19T23:37:49.035Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_11_SuperAdaptiveControlUnit.json	2023-11-20T03:01:32.277Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_12_SuperAssemblyDirectorSystem.json	2023-11-19T23:37:49.035Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_13_SuperMagneticFieldGenerator.json	2023-11-19T23:37:49.036Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_14_SuperPowerRelay.json	2023-11-20T03:01:47.989Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_15_SuperPulseNobelisk.json	2023-11-19T23:37:49.037Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_16_SuperNukeNobelisk copy.json	2023-11-19T23:37:49.037Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_16_SuperNukeNobeslik.json	2023-11-24T01:59:54.201Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Manufacturer/Recipe_Manufacturer_17_SuperPowerShardFrame.json	2023-11-20T03:20:04.304Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_01_SuperPurifiedIron.json	2023-11-19T23:37:49.038Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_02_SuperPurifiedCopper.json	2023-11-19T23:37:49.038Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_03_SuperPurifiedTin.json	2023-11-19T23:37:49.039Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_04_SuperPurifiedZinc.json	2023-11-19T23:37:49.039Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_05_SuperPurifiedCaterium.json	2023-11-19T23:37:49.040Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_06_SuperPurifiedLead.json	2023-11-19T23:37:49.040Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_07_SuperPurifiedMagnesium.json	2023-11-19T23:37:49.041Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_08_SuperPurifiedCobalt.json	2023-11-19T23:37:49.041Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_09_SuperPurifiedNickel.json	2023-11-19T23:37:49.041Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Ore Wascher/Recipe_OreWascher_10_SuperPurifiedRutile.json	2023-11-19T23:37:49.042Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Packager/Recipe_Packager_SuperColor.json	2023-11-19T23:37:49.043Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_01_SuperSloopyIronIngots.json	2023-11-24T01:59:54.217Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_01_SuperSloppyIronIngots.json	2023-11-20T02:34:27.265Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_02_Sorter_SuperIronIngot.json	2023-11-19T23:37:49.044Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_03_SuperSloopyCopperIngot.json	2023-11-24T01:59:54.248Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_03_SuperSloppyCopperIngots.json	2023-11-20T02:34:57.586Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_04_Sorter_SuperCopperIngot.json	2023-11-19T23:37:49.045Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_05_Sorter_SuperTinIngot.json	2023-11-20T02:36:01.462Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_06_SuperSloopyTinIngots.json	2023-11-24T01:59:54.248Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_06_SuperSloppyTinIngots.json	2023-11-20T02:35:39.820Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_07_SuperSloopyCateriumIngot.json	2023-11-19T23:37:49.046Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_08_Sorter_SuperCateriumIngot.json	2023-11-19T23:37:49.046Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_09_Sorter_SuperLeadIngot.json	2023-11-19T23:37:49.047Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_10_Sorter_SuperZincIngot.json	2023-11-19T23:37:49.047Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_11_SuperSloopyGlass.json	2023-11-24T01:59:54.248Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Smelter/Recipe_Smelter_11_SuperSloppyGlass.json	2023-11-20T02:35:55.453Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_01_SuperIronIngot.json	2023-11-19T23:37:49.048Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_02_SuperCopperIngot.json	2023-11-19T23:37:49.048Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_03_SuperTinIngot.json	2023-11-19T23:37:49.049Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_04_SuperZincIngot.json	2023-11-19T23:37:49.049Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_05_SuperCateriumIngot.json	2023-11-19T23:37:49.050Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_06_SuperLeadIngot.json	2023-11-19T23:37:49.050Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_07_SuperBronzeIngot.json	2023-11-19T23:37:49.051Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_08_SuperBrassIngot.json	2023-11-19T23:37:49.051Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_09_SuperCobaltIngot.json	2023-11-19T23:37:49.052Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_10_SuperSteelIngot.json	2023-11-19T23:37:49.052Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_11_SuperSteelRod.json	2023-11-19T23:37:49.053Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_12_SuperInvarIngot.json	2023-11-19T23:37:49.053Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_13_SuperInvarPipes.json	2023-11-24T01:59:54.265Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_14_SuperPolymerisation.json	2023-11-19T23:37:49.054Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_15_SuperSolderWire.json	2023-11-19T23:37:49.054Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_16_SuperAluminumIngot.json	2023-11-19T23:37:49.055Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_17_SuperAluminumSheet.json	2023-11-19T23:37:49.056Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_18_SuperTitaniumPipes copy.json	2023-11-19T23:37:49.056Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_18_SuperTitaniumPipes.json	2023-11-24T01:59:54.266Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Solidifier And Cooler/Recipe_SAC_19_SuperWater.json	2023-11-20T02:43:42.389Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_01_SuperT1SortedStiratite.json	2023-11-19T23:37:49.057Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_02_SuperT1SortedRubyte.json	2023-11-19T23:37:49.057Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_03_SuperT1SortedSaphirite.json	2023-11-19T23:37:49.058Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_04_SuperT1SortedCryolit.json	2023-11-24T01:59:54.266Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_04_SuperT1SortedCryoliteSalt.json	2023-11-20T02:32:38.918Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_05_SuperT1SortedCryolitSilica.json	2023-11-19T23:37:49.059Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_06_SuperT1SortedSatmonium.json	2023-11-19T23:37:49.059Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_07_SuperT2SortedStiratite .json	2023-11-19T23:37:49.060Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_08_SuperT2SortedRubyte.json	2023-11-20T02:33:50.473Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_09_SuperT2SortedSaphirite.json	2023-11-19T23:37:49.061Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_10_SuperT2SortedCryolit.json	2023-11-24T01:59:54.266Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_10_SuperT2SortedCryolite.json	2023-11-20T02:33:34.994Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_11_SuperT2SortedSatmonium.json	2023-11-19T23:37:49.062Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_12_SuperSortedDiamond.json	2023-11-20T02:33:07.575Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_12_SuperT2SortedDiamond.json	2023-11-24T01:59:54.266Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_13_SuperT3SortedStiratite.json	2023-11-19T23:37:49.062Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Sorter/Recipe_Sorter_14_SuperT3SortedCrotinnium.json	2023-11-19T23:37:49.063Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Weaver/Recipe_Weaver_01_SuperFabric.json	2023-11-19T23:37:49.063Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Weaver/Recipe_Weaver_02_SuperNaturalFabric.json	2023-11-19T23:37:49.064Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Weaver/Recipe_Weaver_03_SuperSyntethicFabric.json	2023-11-19T23:37:49.064Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Weaver/Recipe_Weaver_04_SuperCarbonMesh.json	2023-11-19T23:37:49.065Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedCopper.json	2023-11-19T23:37:49.065Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedIron.json	2023-11-19T23:37:49.066Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedLead.json	2023-11-19T23:37:49.066Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedLimeStone.json	2023-11-19T23:37:49.067Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedRubyte.json	2023-11-19T23:37:49.067Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedSapherit.json	2023-11-19T23:37:49.068Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedSatmonium.json	2023-11-19T23:37:49.068Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedStritarit.json	2023-11-19T23:37:49.069Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedTin.json	2023-11-19T23:37:49.069Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperCrushedZinc.json	2023-11-19T23:37:49.069Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperQuartzCrystal.json	2023-11-19T23:37:49.070Z
+FactoryGame/Mods/SARSFPlus/ContentLib/Recipes/Workbench/Recipe_Handcrafter_SuperSteelRod.json	2023-11-19T23:37:49.070Z
+FactoryGame/Mods/SARSFPlus/ContentLib/VisualKits/Kit_CustomSchematicImage.json	2023-11-19T23:37:49.071Z

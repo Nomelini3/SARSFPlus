@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Sulfurous Gas",
+    "Ingredients": [
+        {
+            "Item": "Desc_SulfurPowder",
+            "Amount": 1
+        },
+        {
+            "Item": "Res_GasOxygen",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_Sulfurtrixid",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 24,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_3"
+    ]
+}

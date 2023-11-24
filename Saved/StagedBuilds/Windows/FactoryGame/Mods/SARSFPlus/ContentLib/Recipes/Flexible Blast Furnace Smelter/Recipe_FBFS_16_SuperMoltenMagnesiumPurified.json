@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Molten Magnesium",
+    "Ingredients": [
+        {
+            "Item": "Desc_PurifiedMagnesium",
+            "Amount": 1
+        },
+        {
+            "Item": "Res_GasOxygen",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Methane",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidMagnesium",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 16,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_6"
+    ]
+}

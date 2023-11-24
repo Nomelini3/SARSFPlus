@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Crushed Stiratite",
+    "Ingredients": [
+        {
+            "Item": "Res_StritaritOre",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_CrushedStritarit",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_CrushedLimestone",
+            "Amount": 10
+        }
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 1,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_Crusher"
+    ],
+    "UnlockedBy": [
+        "Schem_GameStart"
+    ]
+}

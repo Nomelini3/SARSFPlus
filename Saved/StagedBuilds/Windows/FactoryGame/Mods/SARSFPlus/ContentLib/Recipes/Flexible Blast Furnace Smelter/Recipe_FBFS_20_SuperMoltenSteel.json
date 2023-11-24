@@ -1,0 +1,38 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Molten Steel",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidIron",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Coal",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_Air",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_LiquidSteel",
+            "Amount": 10000
+        },
+        {
+            "Item": "Desc_LiquidSlag",
+            "Amount": 10000
+        }
+    ],
+    "OverrideCategory": "SuperFluids",    
+    "ManufacturingMenuPriority": 20,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_FlexibleBlastFurnaceSmelter"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_3"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Steel Rod",
+    "Ingredients": [
+        {
+            "Item": "Desc_LiquidSteel",
+            "Amount": 1000
+        },
+        {
+            "Item": "Desc_Water",
+            "Amount": 1000
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_SteelRod",
+            "Amount": 10
+        },
+        {
+            "Item": "Desc_Gas_Steam",
+            "Amount": 10000
+        }
+        
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 11,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_SoldifierAndCooler"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_3"
+    ]
+}

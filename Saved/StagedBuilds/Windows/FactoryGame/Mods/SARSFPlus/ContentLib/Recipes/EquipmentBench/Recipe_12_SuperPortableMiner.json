@@ -1,0 +1,30 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Portable Miner",
+    "Ingredients": [
+        {
+            "Item": "Desc_IronPlate",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_IronRod",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "BP_ItemDescriptorPortableMiner",
+            "Amount": 1
+        }
+    ],
+    "OverrideCategory": "SuperEquipments",    
+    "ManufacturingMenuPriority": 12,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "manual"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_0"
+    ]
+}

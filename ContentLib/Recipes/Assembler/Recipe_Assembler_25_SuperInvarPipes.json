@@ -1,0 +1,31 @@
+{
+    "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
+    "Name": "Super Invar Pipes",
+    "Ingredients": [
+        {
+            "Item": "Desc_SolderWire",
+            "Amount": 1
+        },
+        {
+            "Item": "Desc_InvarPlates",
+            "Amount": 1
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Desc_InvarPipe",
+            "Amount": 10
+        }
+        
+    ],
+    "OverrideCategory": "SuperItems",    
+    "ManufacturingMenuPriority": 13,
+	"ManufacturingDuration": 10,
+    "ManualManufacturingMultiplier": 0.5,
+    "ProducedIn": [
+        "Build_AssemblerMk1"
+    ],
+    "UnlockedBy": [
+        "Schematic_SuperItems_6"
+    ]
+}
