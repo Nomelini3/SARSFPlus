@@ -3,25 +3,25 @@
     "Name": "Super Power Shard Frame",
     "Ingredients": [
         {
-            "Item": "Desc_NobeliskExplosive",
+            "Item": "Desc_InvarPipe",
             "Amount": 1
         },
         {
-            "Item": "Desc_GunpowderMK2",
+            "Item": "Desc_SteelScrew",
             "Amount": 1
         },
         {
-            "Item": "Desc_UraniumCell",
+            "Item": "Desc_Desc_PowerShardCrystal",
             "Amount": 1
         },
         {
-            "Item": "Desc_HighSpeedConnector",
+            "Item": "Desc_Plastic",
             "Amount": 1
         }
     ],
     "Products": [
         {
-            "Item": "Desc_NobeliskNuke",
+            "Item": "Desc_PowerShardFrame",
             "Amount": 10
         }
     ],

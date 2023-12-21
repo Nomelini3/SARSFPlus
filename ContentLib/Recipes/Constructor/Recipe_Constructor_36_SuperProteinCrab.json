@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/budak7273/ContentLib_Documentation/main/JsonSchemas/CL_Recipe.json",
-    "Name": "Super Alien Protein (Crab)",
+    "Name": "Super Hatcher Protein",
     "Ingredients": [
         {
             "Item": "Desc_HatcherParts",
